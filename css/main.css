@@ -63,7 +63,7 @@ a{
         width: 100%;
     }
     .about{
-    max-width: 35rem;
+    max-width: 50rem;
     }
 }
 
@@ -130,7 +130,7 @@ a{
     content: "";
     height: 1px;
     margin-bottom: 1.5rem;
-    margin-top: 1.5rem;
+    margin-top: 0.5rem;
     transform-origin: center left;
     width: 4rem;
 }
